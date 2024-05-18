@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "text": "Hello John!",
+  "emitter": "John",
+  "type": "chat",
+  "devices": [
+    "smartphone",
+    "pc"
+  ]
+}
